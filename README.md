@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 
     ./webSearch "File of Pages" "Max Pages to Index"
     
-    EX: ./webSearch "Test.txt" 10
+    EX: ./webSearch "test.txt" 10
     
     
     
