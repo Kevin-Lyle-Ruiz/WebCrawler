@@ -16,9 +16,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 2. Then, in the Command Line, input this command with the following template with three arguments in total: 
 
-    './webSearch "File of Pages" "Max Pages to Index"'
+    `./webSearch "File of Pages" "Max Pages to Index"`
     
-    EX: './webSearch "test.txt" 10'
+    `EX: ./webSearch "test.txt" 10`
     
     
     
