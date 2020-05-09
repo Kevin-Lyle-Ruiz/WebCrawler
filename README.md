@@ -28,7 +28,7 @@ NOTE: If you want to use your own website for testing purposes, create a .txt fi
 
 EX: "https://cnn.com" 5
 
-When running the Webcrawler, you'll then replace "Test.txt" with the .txt file that you created.
+When running the Webcrawler, you'll then replace "test.txt" with the .txt file that you created.
 
 ## Built With
 
