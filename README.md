@@ -24,9 +24,9 @@ These instructions will get you a copy of the project up and running on your loc
     
 NOTE: If you want to use your own website for testing purposes, create a .txt file and use the following template:
 
-    "https://YourPreferredWebsiteHere" "Number of pages the you want to index"
+      "https://YourPreferredWebsiteHere" "Number of pages the you want to index"
 
-    EX: "https://cnn.com" 5
+      EX: "https://cnn.com" 5
 
 When running the Webcrawler, you'll then replace "test.txt" with the .txt file that you created.
 
