@@ -1,6 +1,6 @@
 # WebCrawler
 
-This is a web crawler created mainly with C, using Python to get links and text within a web page.
+This is a web crawler created mainly with C, using Python to get links and text within a web page. The crawler retrieves words from the webpage, puts it into a Trie data structure, and prints it as a list in the console. 
 
 ## Getting Started
 
