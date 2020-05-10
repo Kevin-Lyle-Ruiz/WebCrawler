@@ -9,6 +9,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 1. Your preferred Command Line / Terminal
+2. MingGW-64 Compiler installed. Link can be found here: http://mingw-w64.org/doku.php
 
 ### Installing
 
