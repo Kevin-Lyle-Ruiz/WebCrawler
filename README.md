@@ -1,21 +1,16 @@
 # WebCrawler
 
-This is a web crawler created mainly with C, using Python to get links and text within a web page. The crawler retrieves words from the webpage, puts it into a Trie data structure, and prints it as a list in the console. 
+This program was a class project where I made a web crawler using Python and C language. Python is used to scrape the words off a web page and then I use C to put the words into a Trie data structure. 
 
-## Getting Started
+## Prerequisites
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+1. MingGW-64 Compiler installed. (http://mingw-w64.org/doku.php)
 
-### Prerequisites
+### Getting Started
 
-1. Your preferred Command Line / Terminal
-2. MingGW-64 Compiler installed. Link can be found here: http://mingw-w64.org/doku.php
+1. Download repository to your preferred location and in the Windows command line, run ```"mingw32-make"``` in the directory that the project is located.
 
-### Installing
-
-1. Download files to your preferred location and run "mingw32-make" if using Windows within the command line in the directory that the project is located.
-
-2. Then, in the Command Line, input this command with the following template with three arguments in total: 
+2. In the Windows command line, input the command listed below with three arguments in total: 
 
     `./webSearch "File of Pages" "Max Pages to Index"`
     
@@ -23,9 +18,9 @@ These instructions will get you a copy of the project up and running on your loc
     
     
     
-NOTE: If you want to use your own website for testing purposes, create a .txt file and use the following template:
+NOTE: If you want to use your own website for testing purposes, create a .txt file and input the following template into the .txt file:
 
-      "https://YourPreferredWebsiteHere" "Number of pages the you want to index"
+      "https://YourPreferredWebsiteHere.com" "Max Pages to Index"
 
       EX: "https://cnn.com" 5
 
