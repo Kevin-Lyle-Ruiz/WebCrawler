@@ -8,11 +8,11 @@ This program was a class project where I made a web crawler using Python and C l
 
 ### Getting Started
 
-1. Download repository to your preferred location and in the Windows command line, run ```"mingw32-make"``` in the directory that the project is located.
+1. Download repository to your preferred location and in the Windows command line, run ```mingw32-make``` in the directory that the project is located.
 
 2. In the Windows command line, input the command listed below with three arguments in total: 
 
-    `./webSearch "File of Pages" "Max Pages to Index"`
+    `./webSearch ".txt file that contains list of web pages" "Max pages to index"
     
     `EX: ./webSearch "test.txt" 10`
     
@@ -20,7 +20,7 @@ This program was a class project where I made a web crawler using Python and C l
     
 NOTE: If you want to use your own website for testing purposes, create a .txt file and input the following template into the .txt file:
 
-      "https://YourPreferredWebsiteHere.com" "Max Pages to Index"
+      "https://YourPreferredWebsiteHere.com" "Max pages to index"
 
       EX: "https://cnn.com" 5
 
