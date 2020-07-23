@@ -1,6 +1,6 @@
 # WordCrawler
 
-This program was a class project where I made a web crawler using Python and C language. Python is used to scrape the words off a web page and then I use C to put the words into a Trie data structure. 
+This script was a class project where I made a web crawler using Python and C language. Python is used to scrape the words off a web page and then I use C to put the words into a Trie data structure. 
 
 ## Prerequisites
 
